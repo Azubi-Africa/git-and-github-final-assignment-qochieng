@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  dsc-pandas-eda-lab             |  In this cumulative lab, I get to practice all of EDA skills with the Ames Housing dataset, which contains information about home sales in Ames, Iowa between 2006 and 2010.             | https://github.com/qochieng/dsc-pandas-eda-lab      |
+| 2 | dsc-sql-lab |  Reinforcing knowledge on SQL queries          | https://github.com/qochieng/dsc-sql-lab   |
+| 3 | dsc-data-serialization-lab             |  The project is about Data Serialization in cumulative lab      | https://github.com/qochieng/dsc-data-serialization-lab     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
